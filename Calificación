@@ -1,0 +1,17 @@
+#include <iostream>
+using namespace std;
+int main()}
+int calificación
+cout<<"indica tu calificación con numero del 0 al 10"<<endl;
+cin>>calificación
+if(calificación <=5)}
+cout<<"recursas">>
+{
+else if(calificación >=6)}
+cout<<suficiente>>
+}
+else if(calificación >=8)}
+cout <<bueno>>
+}
+else
+cout<<excelente>>
