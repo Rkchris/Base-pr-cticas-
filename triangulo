@@ -1,0 +1,25 @@
+#include <iostream>
+using namespace std;
+int  main(){
+float lado 1, lado 2, lado 3
+cout<<"digita el lado 1 del triangulo";
+cin>>lado 1;
+cout<<"digita el lado 2 del triangulo";
+cin>>lado 2;
+cout<<"digita el lado 3 del triangulo";
+cin>>lado 3;
+}
+if(lado 1 == lado 2 and lado 2 == lado 3 and lado 3 == lado 1){
+cout<<"tu triangulo es equilatero";
+}
+else if(lado 2 == lado 1 or lado 2 == lado 3 or lado 1 == lado 3){
+cout<<"tu triangulo es isoceles";
+}
+else if(lado 1 =! lado 2 and lado 2 =! lado 3 and lado 1 =! lado 3){
+cout<<"tu triangulo es escaleno";
+}
+else{
+cout<<"tu no tienes un triangulo";
+}
+return 0;
+{
