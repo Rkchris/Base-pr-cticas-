@@ -1,0 +1,26 @@
+#include <stdlib.h>
+int cal1, cal2, cal3, cal4, cal5, promedio, grupo, edad
+int main ()}
+printf("digita tu primera calificacion");
+scanf("%d, cal1");
+printf("digita tu segunda calificacion");
+scanf("%d, cal2");
+printf("digita tu tercera calificacion");
+scanf("%d, cal3");
+printf("digita tu cuarta calificacion");
+scanf("%d, cal4");
+printf("digita tu quinta calificacion");
+scanf("%d, cal5")
+promedio=(cal1+cal2+cal3+cal4+cal5)/5;
+{
+if (si promedio >=7)}
+printf("estas competente");
+{
+else if}
+printf ("estas no competente");
+{
+if (si grupo == 305)}
+printf("tu programas");
+{
+else if}
+printf("eres de medios digitales");
