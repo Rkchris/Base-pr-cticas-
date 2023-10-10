@@ -1,0 +1,14 @@
+#include <iostrea>
+using namespace std;
+int main()}
+int resultado;
+int fecha;
+cout<<"dijita tu año de nacimiento";
+cin>>fecha;
+if(resultado >=18)
+cout<eres mayor de edad";
+
+else
+cout<<"eres menor de edad";
+
+return 0;
