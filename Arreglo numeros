@@ -1,0 +1,16 @@
+#incluede "iostream" 
+Using namespace std ;
+Int main() {
+Const Int tan arreglo=5;
+Int números [tanarreglo];
+For(Int i=0;<tanarreglo;i++){
+Cout<<"ingrese el numero"<<i+1<<":";
+Cin>>numero[i];
+}
+Cout<<"los números ingresados som:";
+For(Int i=0;<tanarreglo;i++){
+Cout<<"numeros[i]<<"";
+}
+Cout<<endl;
+Return 0;
+}
