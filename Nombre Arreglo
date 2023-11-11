@@ -1,0 +1,23 @@
+#incluede <iostream>
+Using namespace std;
+Int main(){
+Int miArreglo[5]=30;
+String nombres[4];
+miArreglo[0]=30;
+miArreglo[1]=70;
+miArreglo[2]=20;
+miArreglo[3]=10;
+miArreglo[4]=40;
+Nombres[0]="Julian Luna" 
+Nombres[1]="Christian Solis" 
+Nombres[2]="Alan Fajardo" 
+Nombres[3]="Israel Morquecho" 
+Nombres[4]="David Gonzales" 
+for(Int i=0;1<=5; i++) {
+cout<<"Elementos:" <<i<<":" <<miarreglo[I] <<endl;
+} 
+for(Int a=0;a<=4; a++){
+cout<<"Los nombres del arreglo son:" <<nombres[a]<<endl;
+} 
+return 0;
+}
